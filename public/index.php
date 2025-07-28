@@ -13,7 +13,7 @@ $user = $auth->user();
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
-    <title>Görev Takip Uygulaması</title>
+    <title>VeriUp Ofis Takip Uygulaması</title>
     <link rel="stylesheet" href="assets/css/style.css">
     <script src="assets/js/chart.min.js"></script>
     <script src="assets/js/app.js" defer></script>
